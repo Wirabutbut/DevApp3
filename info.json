@@ -5,8 +5,8 @@
    "expiry": "10-06-2039 12:00 PM"
 },
    "redmi7onc": {
-   "password": "$2y$12$gDL8Fyojk/aOsbHsIPNSWOEAVEm/Xiuc2A7wnRbCb6Rp71LmuB5dS",
-   "devices": [],
+   "password": "$2y$12$dvhlmm/Si7vYUN6EKUn8L.CuZmmxBVcXKiSF250xTqX0ltd7JNTZC",
+   "devices": ["REDMI747E04CC8654D8C1E"],
    "expiry": "31-07-2024 12:00 PM"
 },
 }
