@@ -9,4 +9,9 @@
    "devices": ["REDMI747E04CC8654D8C1E"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "redminote5": {
+   "password": "$2y$12$HDJ83bKWKxINF3pZZz8ZxenIQso7OM/V6Qiejh1X5ep6AdwNtZPe2",
+   "devices": ["REDMINOTE52975C5F3DCEF8BB3"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
