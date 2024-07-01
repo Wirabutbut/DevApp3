@@ -34,4 +34,9 @@
    "devices": ["REDMINOTE5E06D9C66FF3E804D"],
    "expiry": "31-07-2024 12:00 PM"
 },
+   "redmi12fire": {
+   "password": "$2y$12$zRu1unOKUfhCV4X1LI6OTefnEyCOaK9FFxw2TV6L08lhjFfE//Iv2",
+   "devices": ["23053RN02A442DF76F00E29BEB"],
+   "expiry": "02-08-2024 12:00 PM"
+},
 }
