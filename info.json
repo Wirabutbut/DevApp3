@@ -39,4 +39,9 @@
    "devices": ["23053RN02A442DF76F00E29BEB"],
    "expiry": "02-08-2024 12:00 PM"
 },
+   "j7primee": {
+   "password": "$2y$12$vbZSI4ZRaFnON8WSARGRe.26nkPO1dhOoXBnVTdQ/GIGVSQEXIlvO",
+   "devices": ["SM-G610F330054559885C381"],
+   "expiry": "13-08-2024 12:00 PM"
+},
 }
