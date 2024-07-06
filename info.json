@@ -49,4 +49,9 @@
    "devices": ["SM-A055F15E5D3622B4F4631"],
    "expiry": "17-08-2024 12:00 PM"
 },
+   "Dedynovianto123": {
+   "password": "$2y$12$IGhHSF2MowKqOBUlUW7dTuEu/ovX5n47th5WqejJPt5dAXIt8iL.y",
+   "devices": [],
+   "expiry": "15-08-2024 12:00 PM"
+},
 }
