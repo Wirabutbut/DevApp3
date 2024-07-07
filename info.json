@@ -59,4 +59,9 @@
    "devices": ["M2006C3MG3CE054FD9870CA4E"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "redminote9": {
+   "password": "$2y$12$n.wh8MnSuAb7aBBZDbn4WupzqeMJY...lW/AOO4.WEOYGbNc9whdi",
+   "devices": ["M2003J15SC85F4192E595BF704","M2006C3MG3CE054FD9870CA4E"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
