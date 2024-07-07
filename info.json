@@ -54,4 +54,9 @@
    "devices": [],
    "expiry": "15-08-2024 12:00 PM"
 },
+   "redmi9cjul": {
+   "password": "$2y$12$/UqLr41EWUE.s7G/k66yNeLB19xnl3KEV91h.FBEyp4mZkkE0NXP6",
+   "devices": ["M2006C3MG3CE054FD9870CA4E"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
