@@ -64,4 +64,9 @@
    "devices": ["M2003J15SC85F4192E595BF704","M2006C3MG3CE054FD9870CA4E"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "samsungj6": {
+   "password": "$2y$12$Pm3yOUL9Jd3a3m7kDmqpFuGKmcavynZPIwjxD3k11o/BpxbNTtpXy",
+   "devices": ["SM-J600GFAB9F8B95007B27C"],
+   "expiry": "30-08-2024 12:00 PM"
+},
 }
