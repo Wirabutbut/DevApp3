@@ -69,4 +69,9 @@
    "devices": ["SM-J600GFAB9F8B95007B27C"],
    "expiry": "30-08-2024 12:00 PM"
 },
+   "redmi13c": {
+   "password": "$2y$12$VhXyKl9gyN6vw4CoN8Pn7Ol4d/X1YJfQYfFEn2mVWOo7eMisr9FXW",
+   "devices": ["2310FPCA4GB352B5D6780AADCC"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
