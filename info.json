@@ -74,4 +74,9 @@
    "devices": ["2310FPCA4GB352B5D6780AADCC"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "samsunga5": {
+   "password": "$2y$12$QwHRD.nvaYRhlVQtW0xpb.2fIkIlpE2tu99L.xnucELqkJg13P6JK",
+   "devices": ["SM-A520FGRXROM52103DA7EC212413"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
