@@ -79,4 +79,9 @@
    "devices": ["SM-A520FGRXROM52103DA7EC212413"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "redmia2+": {
+   "password": "$2y$12$IF5hjC7oeR4BHmVWVRbfl.SHv4P19aKqJoGasWe9u0kA2QyB60nJe",
+   "devices": ["23028RN4DG3C19DE0D1B89245C"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
