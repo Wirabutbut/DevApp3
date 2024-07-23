@@ -84,4 +84,9 @@
    "devices": ["23028RN4DG3C19DE0D1B89245C"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "redmi9cjuli": {
+   "password": "$2y$12$kOt5RZOcHyszzryYXaq3MOVDR/WYEsiiRfpqBsTFujbE/TE4fdmgq",
+   "devices": ["M2006C3MGE9AF19E18F1BDDC4"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
