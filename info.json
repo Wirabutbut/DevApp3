@@ -94,4 +94,9 @@
    "devices": ["M2006C3LG557C90CEE1E5F5AE"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "technopova5": {
+   "password": "$2y$12$FNVMnSXTDQL3bUcMKoYF.OVlc0X39DtHUlr8htho47TwV/OEV/EVO",
+   "devices": ["TECNOLH8N439D1E2E856CFE7A"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
