@@ -104,4 +104,9 @@
    "devices": ["24040RN64Y82FD26DC0CF236FB"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "oppof11aug": {
+   "password": "$2y$12$j4bhSXlBIQWFHFSJmig/5effvohPSS4eMsmWiEom3uuvY10aEtQrS",
+   "devices": ["CPH191102968AED28C39931"],
+   "expiry": "31-08-2024 12:00 PM"
+},
 }
