@@ -99,4 +99,9 @@
    "devices": ["TECNOLH8N439D1E2E856CFE7A"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "redmi13aug": {
+   "password": "$2y$12$u4mR5lTScZ6aYRg9ek38QuJVJ89In3zqCzbJjlQW8YFeZgJvf/Vdm",
+   "devices": ["24040RN64Y82FD26DC0CF236FB"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
