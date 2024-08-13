@@ -109,4 +109,9 @@
    "devices": ["CPH191102968AED28C39931"],
    "expiry": "31-08-2024 12:00 PM"
 },
+   "redmi10aaug": {
+   "password": "$2y$12$Yz17G6d4TGFJWHTgq/FCt.csV/k13zonxs0Mmv3rQwHeiOtnKD7vu",
+   "devices": ["220233L2G74F24578EEE7E21E"],
+   "expiry": "30-09-2024 12:00 PM"
+},
 }
