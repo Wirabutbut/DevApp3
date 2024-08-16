@@ -114,4 +114,9 @@
    "devices": ["220233L2G74F24578EEE7E21E"],
    "expiry": "30-09-2024 12:00 PM"
 },
+   "lzdgaklaim": {
+   "password": "$2y$12$6gbG/NNDa1vfF/rfEdjSqO2VKvPk/OQTD.vDjkR/gcXVQElZn240q",
+   "devices": ["REDMINOTE896A34ADBBA1E5591"],
+   "expiry": "30-09-2024 12:00 PM"
+},
 }
