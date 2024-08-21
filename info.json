@@ -119,4 +119,9 @@
    "devices": ["REDMINOTE896A34ADBBA1E5591"],
    "expiry": "30-09-2024 12:00 PM"
 },
+   "huaweiii": {
+   "password": "$2y$12$G4mD5BVWmkFLm2hwBwQdcu7HeqNfKMhVEJ2SqDDMNdoIYyZOeDhg.",
+   "devices": ["LDN-LX27DPFG18515000758"],
+   "expiry": "30-09-2024 12:00 PM"
+},
 }
