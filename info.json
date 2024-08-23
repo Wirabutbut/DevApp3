@@ -124,4 +124,9 @@
    "devices": ["LDN-LX27DPFG18515000758"],
    "expiry": "30-09-2024 12:00 PM"
 },
+   "samsunga13": {
+   "password": "$2y$12$T7tqwFh1kvqpW4oOIO908eChmka0e7JSp1Z0MYkIdGjRDqgaUZhMS",
+   "devices": ["SM-A135FDD522365E2747604"],
+   "expiry": "30-09-2024 12:00 PM"
+},
 }
