@@ -129,4 +129,9 @@
    "devices": ["SM-A135FDD522365E2747604"],
    "expiry": "30-09-2024 12:00 PM"
 },
+   "redminote10s": {
+   "password": "$2y$12$QpoAGc4HEY6R5akif/e4NeKmZlsTr0iFNw./38395Paf9jkbxoV2S",
+   "devices": ["M2101K7BNY441819D15BA0B86B"],
+   "expiry": "30-09-2024 12:00 PM"
+},
 }
