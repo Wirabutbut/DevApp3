@@ -144,4 +144,9 @@
    "devices": ["2201117TY92A970FF6570B2B1"],
    "expiry": "18-10-2024 12:00 PM"
 },
+   "samj7pro": {
+   "password": "$2y$12$gvdupR1ccIhnTTl4QMYDZeTvPu6ZS91oM3uAIVY3hfdN.1YXYAV76",
+   "devices": ["SM-J730GCAF4723DB10406CC"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
