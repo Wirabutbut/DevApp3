@@ -154,4 +154,9 @@
    "devices": ["SM-A055F9B3969C65FE41789"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "samsunga05": {
+   "password": "$2y$12$AF2Lu/RV501EGFuv/6iQ9uufl/y6hPqD4OQfGfX39.oQmheIYm2Py",
+   "devices": ["SM-A055FE8D6245E9F1E0C47"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
