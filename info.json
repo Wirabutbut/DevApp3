@@ -149,4 +149,9 @@
    "devices": ["SM-J730GCAF4723DB10406CC"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "samsunga05": {
+   "password": "$2y$12$rMlymNyS9nITpOwEyEbJQOX2SYNeVzmgLmCknw0x.pDrKpM0.mxci",
+   "devices": ["SM-A055F9B3969C65FE41789"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
