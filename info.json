@@ -164,4 +164,9 @@
    "devices": ["SM-A037FBAB9C4A918FF2A12"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "dandelion": {
+   "password": "$2y$12$0QAdYSQPLCiPY3EEpn6cJOyhTp/nGEBa6q.eUxZnesAZkfcT/6Piy",
+   "devices": ["M2006C3LG7FB36A33142622C7"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 }
