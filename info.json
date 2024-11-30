@@ -169,4 +169,9 @@
    "devices": ["M2006C3LG7FB36A33142622C7"],
    "expiry": "30-11-2024 12:00 PM"
 },
+   "note9merlin": {
+   "password": "$2y$12$p4ZPmK1F4rHDWZgCriACgO7m0dGT7b.tVi.LzALv7Ce1v8Nor4fOK",
+   "devices": ["M2003J15SC4DBE9883D7538C3C"],
+   "expiry": "02-12-2024 12:00 PM"
+},
 }
