@@ -174,4 +174,9 @@
    "devices": ["M2003J15SC4DBE9883D7538C3C"],
    "expiry": "02-12-2024 12:00 PM"
 },
+   "redmi3ss": {
+   "password": "$2y$12$j.CAYKTGnY3kf7rhADYinOv.ZWCW37XElrMYfxmJ7twloAb8jk0cy",
+   "devices": ["REDMI3S9A74FF9E6A9A5659"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
