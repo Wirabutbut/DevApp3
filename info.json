@@ -1,8 +1,13 @@
 {
 "alex0101": {
    "password": "$2y$12$n0ar0JzMW2brqONDsLPQR.USJtich4Q5pgSczYWHb7pd/zqAYSeVS",
-   "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
+   "devices": ["REDMINOTE9PROCBA9E3D38A69"],
    "expiry": "10-06-2039 12:00 PM"
+},
+   "alextest": {
+   "password": "$2y$12$lQ5ANbywS4eir97iH64ZtuLpNZDkA9JjVcPogaETU03mZdGtjYko.",
+   "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
+   "expiry": "31-01-2025 12:00 PM"
 },
    "redmi7onc": {
    "password": "$2y$12$dvhlmm/Si7vYUN6EKUn8L.CuZmmxBVcXKiSF250xTqX0ltd7JNTZC",
