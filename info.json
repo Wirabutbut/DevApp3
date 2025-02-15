@@ -184,4 +184,9 @@
    "devices": ["REDMI3S9A74FF9E6A9A5659"],
    "expiry": "28-02-2025 12:00 PM"
 },
+   "samsuya16": {
+   "password": "$2y$12$B5.SxgP9u8XICl3WC.5AROZozGmMzPNLQhL0lPlpt/MGiwY202TM6",
+   "devices": ["SM-A165FE8CD36D6BD3F104D"],
+   "expiry": "15-03-2025 12:00 PM"
+},
 }
