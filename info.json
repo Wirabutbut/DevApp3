@@ -194,4 +194,9 @@
    "devices": ["SM-A105G570FFE5EE94CAEC9"],
    "expiry": "15-03-2025 12:00 PM"
 },
+   "samsuya15": {
+   "password": "$2y$12$0TGsKZ/Kc1txFWFT/Y.Gpex1JuyEneP8e3HIyFiV9D99tiunjVjWG",
+   "devices": ["SM-A165FC1ED881A48B8156A"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
