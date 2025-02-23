@@ -199,4 +199,9 @@
    "devices": ["SM-A165FC1ED881A48B8156A"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "realmec15": {
+   "password": "$2y$12$d5eSM..BhH0CiDvyMu39a.jrQMH3zkqi.n.wf47mVA4hYpn.aaW6e",
+   "devices": ["RMX2180516E8C92ADF1D884"],
+   "expiry": "16-04-2025 12:00 PM"
+},
 }
