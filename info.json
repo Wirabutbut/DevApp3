@@ -204,4 +204,9 @@
    "devices": ["RMX2180516E8C92ADF1D884"],
    "expiry": "16-04-2025 12:00 PM"
 },
+   "pakregin": {
+   "password": "$2y$12$27iFRVHcC9KuheARO.C8ve6BadR2tszi4xAPutHPFH9ncKaZ61CRO",
+   "devices": ["CPH19896BA3088744315BF7"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
