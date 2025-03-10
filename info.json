@@ -214,4 +214,9 @@
    "devices": ["2409BRN2CY91FE0BEDFCA64915"],
    "expiry": "09-05-2025 12:00 PM"
 },
+   "samsunga14": {
+   "password": "$2y$12$ogRMOFrml1VgQjjUWRTueejISjC4rMiu2RIzz65N8iriKs4FNLfRy",
+   "devices": ["SM-A146P16BFBCDFEAC4E679"],
+   "expiry": "10-04-2025 12:00 PM"
+},
 }
