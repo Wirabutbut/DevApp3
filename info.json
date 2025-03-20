@@ -219,4 +219,9 @@
    "devices": ["SM-A146P16BFBCDFEAC4E679"],
    "expiry": "10-04-2025 12:00 PM"
 },
+   "redmi5a": {
+   "password": "$2y$12$vTGCzuHagrAD1UtTH5eEDeBjswzzeiqDp8qvH1cR5ZvzuAJEjRliO",
+   "devices": ["REDMI5AE34E07E17CF5"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 }
