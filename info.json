@@ -224,4 +224,9 @@
    "devices": ["REDMI5AE34E07E17CF5"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "redminote12": {
+   "password": "$2y$12$E6N59WDjPqrl8daPBKOUUefHxVwrtiaAaJix4kQJ/p/9tDwoP5Xiq",
+   "devices": ["23021RAA2YEA0BF44C6D0F4EB7"],
+   "expiry": "15-06-2025 12:59 PM"
+},
 }
