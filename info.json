@@ -229,4 +229,9 @@
    "devices": ["23021RAA2YEA0BF44C6D0F4EB7"],
    "expiry": "15-06-2025 12:59 PM"
 },
+   "itelsurabaya": {
+   "password": "$2y$12$dEeRvB8i1CFxh9FEjrrYnerlytkhcnwoqr6dMhglpUo60CS9iYKdK",
+   "devices": ["ITELA666LN41C395E1667C9E95"],
+   "expiry": "16-06-2025 12:00 PM"
+},
 }
