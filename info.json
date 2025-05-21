@@ -239,4 +239,9 @@
    "devices": ["RMX2180CEBB72BCFB074E22"],
    "expiry": "25-06-2025 12:00 PM"
 },
+   "redmiwhy": {
+   "password": "$2y$12$h5ObSbb1R6AyCvF7hU26fOmTXIeKU2vMzBfUkfN5O8N6hODzkuTGq",
+   "devices": ["220733SGD518258AA4C776C5"],
+   "expiry": "12-06-2025 12:00 PM"
+},
 }
