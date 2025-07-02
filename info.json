@@ -244,4 +244,9 @@
    "devices": ["220733SGD518258AA4C776C5"],
    "expiry": "12-06-2025 12:00 PM"
 },
+   "j7primee": {
+   "password": "$2y$12$WZeb.xprDtp/cnqamzuK8.yNPpq1r5urh2/LgkbSuWSyUC21vtWnu",
+   "devices": ["SM-G610F330068A260D0256F"],
+   "expiry": "03-08-2025 12:00 PM"
+},
 }
